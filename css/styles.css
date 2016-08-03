@@ -6,3 +6,15 @@
 .best {
   font-weight: bold;
 }
+img {
+  height: 400px;
+  width: 500px;
+}
+
+.float {
+  float: right;
+}
+
+.background-color {
+  background: linear-gradient(#b3ffcc, white, #66ffff)
+}
